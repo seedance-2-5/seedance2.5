@@ -255,5 +255,3 @@ Seedance2.5 是独立第三方产品，与 ByteDance、Dreamina 或 CapCut 不�
 <div align="center">
   <a href="#english">Back to English ↑</a>
 </div>
-
-![Analytics](https://ga.smnzb.com/p/9zZ0eLD42)
